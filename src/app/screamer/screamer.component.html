@@ -1,0 +1,9 @@
+<div class="container">
+    <button (click)="triggerScreamer()">Нажми ка</button>
+  
+    <div *ngIf="showScreamer" class="screamer">
+      <div class="flash" *ngIf="flashing"></div>  <!-- Мигающий эффект -->
+      <img src="osel.jpg" alt="Scary Face" class="screamer-img">
+    </div>
+  </div>
+  
