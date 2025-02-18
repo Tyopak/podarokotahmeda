@@ -1,0 +1,13 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>Подарок от ахмедика</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="znachok.ico">
+<link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">.container[_ngcontent-ng-c1236099674]{text-align:center;margin-top:50px}button[_ngcontent-ng-c1236099674]{padding:5px 10px;font-size:18px;cursor:pointer;background-color:red;color:#fff;border:none;border-radius:5px}.screamer[_ngcontent-ng-c1236099674]{position:fixed;top:0;left:0;width:100vw;height:100vh;background:#000;display:flex;align-items:center;justify-content:center}.flash[_ngcontent-ng-c1236099674]{position:absolute;width:100%;height:100%;background:#fff;animation:_ngcontent-ng-c1236099674_flashAnimation .1s 100}.screamer-img[_ngcontent-ng-c1236099674]{width:80vw;max-width:890px;opacity:0;transform:scale(.5);animation:_ngcontent-ng-c1236099674_appearAnimation .5s forwards,_ngcontent-ng-c1236099674_shakeAnimation .1s infinite}@keyframes _ngcontent-ng-c1236099674_appearAnimation{0%{opacity:0;transform:scale(.5)}to{opacity:1;transform:scale(1.2)}}@keyframes _ngcontent-ng-c1236099674_flashAnimation{0%{opacity:1}to{opacity:0}}@keyframes _ngcontent-ng-c1236099674_shakeAnimation{0%{transform:translate(2px,2px) rotate(0)}25%{transform:translate(-2px,-2px) rotate(1deg)}50%{transform:translate(2px,-2px) rotate(0)}75%{transform:translate(-2px,2px) rotate(-1deg)}to{transform:translate(2px,2px) rotate(0)}}</style></head>
+<body><!--nghm--><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
+</script><script>window.__jsaction_bootstrap(document.body,"ng",["click"],[]);</script>
+  <app-root ng-version="19.1.6" ngh="1" ng-server-context="ssg"><app-screamer _nghost-ng-c1236099674 ngh="0"><div _ngcontent-ng-c1236099674 class="container"><button _ngcontent-ng-c1236099674 jsaction="click:;">Нажми ка</button><!----></div></app-screamer></app-root>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-PSPARJSN.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{"t":{"3":"t0"},"c":{"3":[]}},{}]}</script></body></html>`;
